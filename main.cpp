@@ -1,13 +1,12 @@
 
-Testando o notepadd++ para escrever commit
 #include <stdio.h>
+
+void imprimirAlice(){
+	printf("Alice");
+}
 
 void imprimirBob(){
 }
-
-void imprimirAlice(){
-}
-
 
 
 int main(){
