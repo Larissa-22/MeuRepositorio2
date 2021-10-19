@@ -1,15 +1,16 @@
-
 #include <stdio.h>
+#include "funcoes.h"
 
 void imprimirAlice(){
 	printf("Alice");
 }
 
 void imprimirBob(){
+       printf("Bob");
 }
 
 
 int main(){
-
-	return 0;
+   imprimirBob();
+   return 0;
 }
