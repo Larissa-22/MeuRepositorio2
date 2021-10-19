@@ -14,3 +14,7 @@ int main(){
    imprimirAlice();
    return 0;
 }
+
+void imprimirHelloWorld(){
+   printf("Hello World!");
+}
